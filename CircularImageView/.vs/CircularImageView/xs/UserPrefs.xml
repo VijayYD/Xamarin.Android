@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{85B89F11-2009-4761-B9E0-D550AFD78688}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CircularImageView/MainActivity.cs">
+    <Files>
+      <File FileName="CircularImageView/MainActivity.cs" Line="56" Column="10" />
+      <File FileName="CircularImageView/Resources/values/Strings.xml" Line="3" Column="37" />
+      <File FileName="CircularImageView/Resources/drawable/circular_image.xml" Line="9" Column="1" />
+      <File FileName="CircularImageView/Resources/drawable/rounded_tv.xml" Line="14" Column="10" />
+      <File FileName="CircularImageView/Resources/drawable/circular_shape.xml" Line="25" Column="38" />
+      <File FileName="CircularImageView/Resources/drawable/circular_shape_empty.axml" Line="11" Column="39" />
+      <File FileName="CircularImageView/Resources/drawable/circular_shape_blue.axml" Line="24" Column="37" />
+      <File FileName="CircularImageView/CustomDrawable.cs" Line="102" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yvittal/Projects/CircularImageView/CircularImageView/CustomDrawable.cs" relfile="CircularImageView/CustomDrawable.cs" line="102" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CircularImageView AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Desktop/Health4ME_Git/Health4Me/client/CrossCarrier/CrossCarrier/Services/GtwyProviderSearchService.cs" line="32" offsetX="1802" offsetY="465" expression="searchNode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

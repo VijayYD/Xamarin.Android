@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B27C4BFB-AA08-44AA-9889-A3DCB78E2059}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomSpinner AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SamsingS5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomSpinner/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="CustomSpinner/MainActivity.cs" Line="26" Column="39" />
+      <File FileName="CustomSpinner/CustomSpinnerAdapter.cs" Line="38" Column="55" />
+      <File FileName="CustomSpinner/Properties/AndroidManifest.xml" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../H4ME2.0/uhg-integrated-mobile-app/client/CrossCarrier/iOS/ViewControllers/PersonalHealthRecord/PHRLoginService.cs" line="49" offsetX="1703" offsetY="816" expression="DataString" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

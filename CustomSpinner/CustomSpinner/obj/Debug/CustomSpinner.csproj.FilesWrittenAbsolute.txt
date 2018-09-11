@@ -1,0 +1,17 @@
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/bin/Debug/CustomSpinner.dll.mdb
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/bin/Debug/CustomSpinner.dll
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/bin/Debug/com.companyname.customspinner.apk
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/android/bin/com.companyname.customspinner.apk
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/layout/main.xml
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/values/strings.xml
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/R.cs.flag
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/bin/Debug/com.companyname.customspinner-Signed.apk
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/uploadflags.txt
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/CustomSpinner.dll
+/Users/yvittal/Projects/CustomSpinner/CustomSpinner/obj/Debug/CustomSpinner.dll.mdb
