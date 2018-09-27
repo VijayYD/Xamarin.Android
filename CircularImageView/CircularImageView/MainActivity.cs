@@ -46,14 +46,13 @@ namespace CircularImageView
             //textView.SetBackgroundDrawable(layerDrawable);
 
             // View view = (View)FindViewById(Resource.Id.view);
-            textView.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"), Color.ParseColor("#ff0099cc"), 20, true);
-            textView2.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"), Color.ParseColor("#ffffbb33"), 100, false);
-            textView3.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#ff99cc00"), 40, true);
-            textView4.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#ff0099cc"), 70, true);
-            textView5.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#ff99cc00"), 85, false);
+            textView.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"), Color.ParseColor("#cdcdcd"), 20, false);
+            textView2.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"), Color.ParseColor("#cdcdcd"), 100, false);
+            textView3.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#cdcdcd"), 40, false);
+            textView4.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#cdcdcd"), 70, false);
+            textView5.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#cdcdcd"), 85, false);
             textView6.Background = new CustomDrawable(this, Color.ParseColor("#cdcdcd"),Color.ParseColor("#ff99cc00"), 97, false);
 
         }
     }
 }
-
